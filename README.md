@@ -169,3 +169,6 @@ For non regex experts basically it identifies:
     - Matthieu Brouillard [public key](https://sks-keyservers.net/pks/lookup?op=get&search=0x8139E8632AB5F258)
 - `mvn -Poss,release -DskipTests deploy`
 - `git push --follow-tags origin master`
+
+
+an example
